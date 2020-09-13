@@ -6,7 +6,7 @@
   <link href="https://water-li-drop.github.io/atom.xml" rel="self"/>
   
   <link href="https://water-li-drop.github.io/"/>
-  <updated>2020-09-13T16:12:18.718Z</updated>
+  <updated>2020-09-13T16:40:38.387Z</updated>
   <id>https://water-li-drop.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试2</title>
+    <link href="https://water-li-drop.github.io/2020/09/14/ceshi/"/>
+    <id>https://water-li-drop.github.io/2020/09/14/ceshi/</id>
+    <published>2020-09-13T16:38:59.618Z</published>
+    <updated>2020-09-13T16:40:38.387Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试内容-2222"><a href="#测试内容-2222" class="headerlink" title="测试内容 2222"></a>测试内容 2222</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;测试内容-2222&quot;&gt;&lt;a href=&quot;#测试内容-2222&quot; class=&quot;headerlink&quot; title=&quot;测试内容 2222&quot;&gt;&lt;/a&gt;测试内容 2222&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="文章分类实验" scheme="https://water-li-drop.github.io/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="文章标签实验" scheme="https://water-li-drop.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E5%AE%9E%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>测试</title>
